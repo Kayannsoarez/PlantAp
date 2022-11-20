@@ -30,7 +30,7 @@ const long utcOffsetInSeconds = -10800;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", utcOffsetInSeconds);
  
 //Definições Open Weather Map 
-String OPEN_WEATHER_MAP_APP_ID = "35557f3935e3d843795e6e9a864ef0a6";
+String OPEN_WEATHER_MAP_APP_ID = "Token da API Open Weather Map";
 //Go to https://www.latlong.net/ 
 float OPEN_WEATHER_MAP_LOCATTION_LAT = -3.732714;
 float OPEN_WEATHER_MAP_LOCATTION_LON = -38.526997;
