@@ -92,7 +92,7 @@ EspMQTTClient client
   "02544946", //Senha da sua rede Wi-Fi
   "mqtt.tago.io",  // MQTT Broker server ip padrão da tago
   "Default",   // Username
-  "634c9b71-674c-4998-a191-b59d61300ff2",   // Código do Token
+  "Token da TagoIO",   // Código do Token
   "TestClient",      // Nome do cliente que identifica exclusivamente seu device
   1883              // A porta MQTT, padrão 1883.
 );
